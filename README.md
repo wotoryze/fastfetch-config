@@ -1,5 +1,4 @@
 ## Simple fastfetch config
-<kbd>
-  <img src="preview.png" alt="Preview" width="500">
-</kbd>
+![Preview](preview.png)
+
 ##### Requires icons from Nerd fonts
